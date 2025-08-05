@@ -5,7 +5,7 @@
 # Linux WINdows Change Directory
 
 
-### Program that does the same thing as bash "cd" command but with windows path
+### Program that does the same thing as bash ```cd``` command but with windows path
 
 
 ## Dependencies
