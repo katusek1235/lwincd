@@ -1,6 +1,7 @@
 
 > [!WARNING]
 > This is absolutely not production ready this is only hobbyist project
+> NOT FINISHED AND NOT WORKING STILL IN DEVELOPEMENT
 
 # Linux WINdows Change Directory
 
